@@ -5,5 +5,5 @@ package com.cins.eric.animatordemo.Model;
  */
 
 public final class TyingProduct {
-    public static final int SUPER_VIP = 71;
+
 }
